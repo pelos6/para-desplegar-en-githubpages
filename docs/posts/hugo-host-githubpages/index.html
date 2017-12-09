@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hugo Host on GitHub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.22.1" />
+  <link href="" rel="alternate" type="application/rss+xml" title="Para desplegar en githubPages" />
+  <link href="http://example.org//css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://example.org//css/hc.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  
+    
+    </head>
+    <body>
+<div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Herring Cove </div>
+      <div id = "wrapper">
+
+
+<div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a href="http://example.org//"><p class="navbar-brand">Para desplegar en githubPages</p></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+					
+					
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+
+       
+       <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+					<img src="" />
+          <li class="sidebar-brand"><a href="http://example.org//"><h1 class="brand">Para desplegar en githubPages</h1></a><h3></h3></li>
+          <hr />
+					
+          <hr />
+          <div id="social-wrapper">
+           
+           
+           
+           
+         </div>
+       </ul>
+     </div>
+
+
+
+     <div class="container">
+
+
+  <div id="article">
+   <div class="article-title">Hugo Host on GitHub</div>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2017-06-17</small></p> <hr/>
+   <div class="post">
+     <ul>
+<li>tutorial <a href="https://gohugo.io/hosting-and-deployment/hosting-on-github/">de gohugo</a></li>
+<li>otro <a href="https://code.tutsplus.com/es/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319">tutorial interesante</a></li>
+<li>primero creo un sitio con <code>hugo</code></li>
+</ul>
+
+<pre><code class="language-bash">c:\nube\MEGA\programacion\HtmlCssEstatico\hugo&gt;hugo new site para-desplegar-en-githubpages
+Congratulations! Your new Hugo site is created in c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages.
+
+Just a few more steps and youre ready to go:
+
+1. Download a theme into the same-named folder.
+   Choose a theme from https://themes.gohugo.io/, or
+   create your own with the &quot;hugo new theme &lt;THEMENAME&gt;&quot; command.
+2. Perhaps you want to add some content. You can add single files
+   with &quot;hugo new &lt;SECTIONNAME&gt;\&lt;FILENAME&gt;.&lt;FORMAT&gt;&quot;.
+3. Start the built-in live server via &quot;hugo server&quot;.
+
+Visit https://gohugo.io/ for quickstart guide and full documentation.
+
+c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages&gt;git clone https://github.com/spf13/herring-cove.git themes/herring-cove
+
+-- quitando .git del tema
+c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages&gt;rm -rf themes/herring-cove/.git
+
+-- creo el primer post
+c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages&gt;hugo new posts/my-first-post.md
+c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages\content\posts\my-first-post.md created
+
+c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages&gt;hugo server -t herring-cove --buildDrafts
+
+</code></pre>
+
+<ul>
+<li>cambio el archivo de configuración <code>config.toml</code></li>
+</ul>
+
+<pre><code class="language-toml">baseURL = &quot;http://example.org/&quot;
+languageCode = &quot;en-us&quot;
+theme = &quot;herring-cove&quot;
+title = &quot;Para desplegar en githubPages&quot;
+publishDir = &quot;docs&quot;
+</code></pre>
+
+   </div>
+ </div>
+
+
+ <a href="https://twitter.com/share" class="twitter-share-button " data-size="small" data-count="none">Tweet</a>
+ <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+ <ul class="pager">
+      &nbsp;<li class="previous"><a href="http://example.org/posts/my-first-post/"> my first post</a></li>
+     
+</ul>
+
+
+
+    </ul>
+    </div>
+    <footer>
+
+        <p class="text-muted credit">&copy; 2017. All rights reserved. </p>
+    </footer>
+ 
+    <script src="http://example.org//js/jquery-1.10.2.min.js"></script>
+    <script src="http://example.org//js/bootstrap.min.js"></script>
+    <script src="http://example.org//js/bootstrap.js"></script>
+    <script type="text/javascript" src="http://example.org//js/hc.js"></script>
+</body>
+
+</html>
+

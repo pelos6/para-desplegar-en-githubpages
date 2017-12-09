@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "herring-cove"
+title = "Para desplegar en githubPages"
+publishDir = "docs"
