@@ -63,6 +63,6 @@ git push -u origin master
 
 * en el siguiente `push` se actualiza el directorio `docs` y se puede ver el sitio correctamente generado
 
-![HugoGitHubPages](/assets/img/HugoGitHubPages.PNG)  
+![HugoGitHubPages](images/HugoGitHubPages.PNG)
 
-![HugoGitHubPages1](/assets/img/HugoGitHubPages1.PNG)
+![HugoGitHubPages1](images/HugoGitHubPages1.PNG)
