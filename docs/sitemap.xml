@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/posts/my-first-post/</loc>
     <lastmod>2017-12-09T16:50:24+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/hugo-host-githubpages/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/posts/hugo-host-githubpages/</loc>
     <lastmod>2017-06-17T19:23:58+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/</loc>
     <lastmod>2017-12-09T16:50:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/posts/</loc>
     <lastmod>2017-12-09T16:50:24+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>pelos6.github.io/para-desplegar-en-githubpages/tags/</loc>
     <priority>0</priority>
   </url>
   
