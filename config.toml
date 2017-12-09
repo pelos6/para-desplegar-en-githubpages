@@ -1,5 +1,5 @@
 baseURL = "https://pelos6.github.io/para-desplegar-en-githubpages/"
 languageCode = "en-us"
 theme = "herring-cove"
-title = "Para https://pelos6.github.io/para-desplegar-en-githubpages"
+title = "Para desplegar en github Pages"
 publishDir = "docs"

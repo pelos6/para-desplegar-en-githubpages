@@ -39,9 +39,11 @@ c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages>hug
 * cambio el archivo de configuración `config.toml`
 
 ```toml
-baseURL = "http://example.org/"
+baseURL = "https://pelos6.github.io/para-desplegar-en-githubpages/"
 languageCode = "en-us"
 theme = "herring-cove"
-title = "Para desplegar en githubPages"
+title = "Para desplegar en gitHub Pages"
 publishDir = "docs"
 ```
+
+* importante la línea donde pone `baseURL = "https://pelos6.github.io/para-desplegar-en-githubpages/"`
