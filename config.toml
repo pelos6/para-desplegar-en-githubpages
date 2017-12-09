@@ -1,4 +1,4 @@
-baseURL = "pelos6.github.io/para-desplegar-en-githubpages"
+baseURL = "pelos6.github.io/para-desplegar-en-githubpages/"
 languageCode = "en-us"
 theme = "herring-cove"
 title = "Para desplegar en githubPages"
