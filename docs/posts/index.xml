@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Para pelos6.github.io/para-desplegar-en-githubpages</title>
-    <link>pelos6.github.io/para-desplegar-en-githubpages/posts/</link>
-    <description>Recent content in Posts on Para pelos6.github.io/para-desplegar-en-githubpages</description>
+    <title>Posts on Para https://pelos6.github.io/para-desplegar-en-githubpages</title>
+    <link>https://pelos6.github.io/para-desplegar-en-githubpages/posts/</link>
+    <description>Recent content in Posts on Para https://pelos6.github.io/para-desplegar-en-githubpages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Dec 2017 16:50:24 +0100</lastBuildDate>
     
-	<atom:link href="pelos6.github.io/para-desplegar-en-githubpages/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pelos6.github.io/para-desplegar-en-githubpages/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>my first post</title>
-      <link>pelos6.github.io/para-desplegar-en-githubpages/posts/my-first-post/</link>
+      <link>https://pelos6.github.io/para-desplegar-en-githubpages/posts/my-first-post/</link>
       <pubDate>Sat, 09 Dec 2017 16:50:24 +0100</pubDate>
       
-      <guid>pelos6.github.io/para-desplegar-en-githubpages/posts/my-first-post/</guid>
+      <guid>https://pelos6.github.io/para-desplegar-en-githubpages/posts/my-first-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo Host on GitHub</title>
-      <link>pelos6.github.io/para-desplegar-en-githubpages/posts/hugo-host-githubpages/</link>
+      <link>https://pelos6.github.io/para-desplegar-en-githubpages/posts/hugo-host-githubpages/</link>
       <pubDate>Sat, 17 Jun 2017 19:23:58 +0200</pubDate>
       
-      <guid>pelos6.github.io/para-desplegar-en-githubpages/posts/hugo-host-githubpages/</guid>
+      <guid>https://pelos6.github.io/para-desplegar-en-githubpages/posts/hugo-host-githubpages/</guid>
       <description>tutorial de gohugo otro tutorial interesante primero creo un sitio con hugo  c:\nube\MEGA\programacion\HtmlCssEstatico\hugo&amp;gt;hugo new site para-desplegar-en-githubpages Congratulations! Your new Hugo site is created in c:\nube\MEGA\programacion\HtmlCssEstatico\hugo\para-desplegar-en-githubpages. Just a few more steps and youre ready to go: 1. Download a theme into the same-named folder. Choose a theme from https://themes.gohugo.io/, or create your own with the &amp;quot;hugo new theme &amp;lt;THEMENAME&amp;gt;&amp;quot; command. 2. Perhaps you want to add some content. You can add single files with &amp;quot;hugo new &amp;lt;SECTIONNAME&amp;gt;\&amp;lt;FILENAME&amp;gt;.</description>
     </item>
     
